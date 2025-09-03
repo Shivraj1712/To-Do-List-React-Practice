@@ -11,7 +11,8 @@ A simple yet elegant **Todo List application** built with **React + TypeScript**
 - ⚡ Built with **TypeScript** for type safety  
 
 ## 🌐 Live Demo  
-🔗 [View the App](https://todolistusingreactandbootstrap.netlify.app/)  
+🔗 [View the App](https://todolistreactandbootstrap.netlify.app/)  
+
 
 ## 🛠️ Tech Stack  
 - **React (TypeScript)** – Frontend framework  
